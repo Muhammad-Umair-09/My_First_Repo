@@ -1,1 +1,1 @@
-This is my first repository, created for learning Git and Github.
+"Conflict file on conflict branch"
